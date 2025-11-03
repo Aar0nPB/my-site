@@ -2,30 +2,43 @@
 
 ## 我是谁
 
+### Hero
+
 我是 Aaron，  
-不跑步的开发者不是好的吉他手。  
-Web3/AI
+Developer/Musician/Creator,  
+一个永不停下脚步的跨界探索者。  
+[[图片]]
 
 ## 我要展示的内容
 
-## 一堆标签/词云图
+### Tags 一堆标签/词云图
 
 ```
-Web3, AI, Developer, INTJ, Guitar, Marathon, Product Manager, Indie Hacker, Digital Nomad, Influencer, Content Creator
+INTJ,
+Web3, AI, Developer, Product Manager, Indie Hacker, Digital Nomad,
+Guitar, Runner, Influencer, Content Creator.
 ```
 
-### 产出（我做了什么 what i did）
+### Projects 产出（我做了什么 what i did）
 
 根据我不同的身份划分展示内容：
 
-1. 开发者/产品经理/数字游民
+1. 开发者/产品经理/创业者/数字游民
 2. 吉他手/独立音乐人/艺术家
 3. 跑者
 4. 内容创作者/influencer
 
-### 输入
+### Skills 技能/技术栈
+
+[[待定]]
+
+### Inspiration 输入
 
 对我影响大的人、作品（音乐、电影影视动漫、书）
+
+### Contact
+
+GitHub, X, email
 
 ## 目标受众是谁
 
@@ -36,7 +49,7 @@ Web3, AI, Developer, INTJ, Guitar, Marathon, Product Manager, Indie Hacker, Digi
 ## 用户到访后我希望他做什么
 
 - 看完所有内容
-- 点击我的 github, x, email 等链接
+- 点击我的 GitHub, X, email 等链接
 
 ## 风格关键词
 
