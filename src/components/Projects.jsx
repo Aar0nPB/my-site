@@ -1,9 +1,10 @@
 export default function Projects() {
-    return (
-        <section id="projects">
-            <ul>
-                <li>To be continue...</li>
-            </ul>
-        </section>
-    )
+  return (
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li>To be continue...</li>
+      </ul>
+    </section>
+  );
 }
