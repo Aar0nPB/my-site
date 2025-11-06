@@ -7,8 +7,7 @@ import Contact from "../components/Contact";
 
 export default function Home() {
   return (
-    <div>
-      <h1 className="text-3xl font-bold text-primary">Hello Tailwind</h1>
+    <div className="max-w-screen-lg mx-auto px-6">
       <Navbar />
       <Hero />
       <Tags />
