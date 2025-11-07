@@ -1,9 +1,16 @@
 .hero-hello {
-    padding-top: 5rem;
+    padding-top: 4rem;
 }
 
 .hero-avatar {
-    width: 30vw;
-    max-width: 200px;
+    margin-top: 4rem;
+    margin-left: 2rem;
+    width: 25vw;
+    height: 25vw;
+    max-width: 400px;
     border-radius: 10px;
+}
+
+.hero-identity {
+    font-size: 2rem;
 }

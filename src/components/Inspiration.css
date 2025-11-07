@@ -1,26 +1,45 @@
+.inspiration-title {
+    margin-bottom: 15vh;
+}
+
+.music {
+    margin: 5rem;
+}
+
+.inspiration-h3 {
+    color: #11bfff;
+    margin-bottom: 2rem;
+}
+
+.music-genre-and-people {
+    margin-right: 3rem;
+}
+
 .plini {
     width: 30vw;
     max-width: 300px;
+    border-radius: 5px;
 }
 
-.erra {
-    width: 50vw;
-    max-height: 500px;
+.film-tv-anime-list {
+    margin: 2rem;
 }
 
-.guthrie-govan {
-    width: 30vw;
-    max-width: 200px;
+.film-tv-anime-posts {
+    padding: 5px;
 }
 
 .attack-on-titan {
+    border-radius: 5px;
     width: 30vw;
 }
 
 .fight-club {
+    border-radius: 5px;
     width: 30vw;
 }
 
 .blade-runner-2049 {
+    border-radius: 10px;
     width: 30vw;
 }

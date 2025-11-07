@@ -7,7 +7,7 @@ import Contact from "../components/Contact";
 
 export default function Home() {
   return (
-    <div className="max-w-screen-lg mx-auto px-6">
+    <div className="text-center max-w-screen-lg mx-auto px-6">
       <Navbar />
       <Hero />
       <Tags />
