@@ -1,4 +1,5 @@
 import { Link } from "react-scroll";
+import reactLogo from "../assets/react.svg";
 
 function Navbar() {
   return (
@@ -6,8 +7,8 @@ function Navbar() {
       <div className="max-w-screen-xl mx-auto flex items-center justify-between">
         <div className="flex items-center space-x-3">
           <img
-            src="/src/assets/react.svg"
-            alt="React Loge"
+            src={reactLogo}
+            alt="React Logo"
             className="w-10 h-10 rounded-full"
           />
           <span className="text-[var(--color-secondary)] text-xl font-bold tracking-wide">
